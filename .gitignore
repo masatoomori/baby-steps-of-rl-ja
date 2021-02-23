@@ -105,3 +105,5 @@ FN/logs
 *.h5
 *.pkl
 /src
+
+.idea
